@@ -1,5 +1,5 @@
 # 💫 About Me:
-After a major in math, physics and industrial science I got enrolled in an electrical engineering degree <br>
+After a major in math, physics and industrial science, I got enrolled in an electrical engineering degree.<br>
 
 
 # 💻 Tech Stack:
